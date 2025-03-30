@@ -1,4 +1,4 @@
-# rollup-01
+
 This tutorial helps developers set up an OP Stack testnet
 ### Prerequisites
 Before proceeding, make sure you have the following software dependencies installed:
